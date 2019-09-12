@@ -1,0 +1,10 @@
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\bin\MyProject.dll
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\bin\MyProject.pdb
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.dll
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.pdb
+C:\Users\salah\Downloads\Online Shopping Cart Asp.Net WebForm\C#\MyProject\bin\MyProject.dll
+C:\Users\salah\Downloads\Online Shopping Cart Asp.Net WebForm\C#\MyProject\bin\MyProject.pdb
+C:\Users\salah\Downloads\Online Shopping Cart Asp.Net WebForm\C#\MyProject\obj\Release\MyProject.dll
+C:\Users\salah\Downloads\Online Shopping Cart Asp.Net WebForm\C#\MyProject\obj\Release\MyProject.pdb
+C:\Users\salah\Downloads\Online Shopping Cart Asp.Net WebForm\C#\MyProject\obj\Release\MyProject.csprojResolveAssemblyReference.cache
